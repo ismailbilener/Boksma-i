@@ -1,2 +1,2 @@
-# Boksma-i
-Boksmaçi
+# Boksmaci
+Boksmaci
